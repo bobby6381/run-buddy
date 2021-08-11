@@ -34,7 +34,7 @@ header {
       display: inline;
   }
   header nav ul li a {
-      margin: 3 30px;
+      margin: 0 30px;
       font-weight: lighter;
       font-size: 22px;
   }
